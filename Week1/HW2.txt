@@ -1,0 +1,4 @@
+1. Adım - While ile döngü başlatılıyor ve kullanıcıdan deger değişkeni için girdi isteniyor.
+2. Adım - deger "exit" ise ekrana "Çıkış yapılıyor." yazdırılıyor. Değilse 3. Adım'a geçiyor.
+3. Adım - Burda tekrar while ile döngüsü başlatmamın sebebi deger değişkenini integer tipine getirmek istediğimden dolayı yaptım. While ile yapmazsam program bu adımda hata veriyordu. 
+4. Adım - Eğer integer tipine getirdiyse fibonacci dizisinin kodlarına geçecek. integer tipine getiremediyse break çalışacak ve ekrana "Girdiğiniz değer geçersiz." yazdırılacak.
