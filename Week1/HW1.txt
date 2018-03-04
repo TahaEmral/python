@@ -1,6 +1,6 @@
 1. Adım - while ile döngüye başlıyor islem değeri soruluyor.
 2. Adım - islem değeri "+, -, *, /" veya "exit" haricinde değer girilirse "Girdiğiniz değer geçersiz." ekrana yazdırılıyor.
-2. Adım - Girilen değer eğer "exit" ise "Çıkış yapılıyor." yazdırılıyor.
-3. Adım - Tekrar while döngüsü ile sayi1 ile sayi2'yi kullanıcıdan girmesi isteniyor ve sayı olup olmadığını kontrol ediyor sayı değilse ekrana "Girdiğiniz değer sayı değil." yazdırılıyor ve tekrar sayı girmesi isteniyor.
-4. Adım - elif ile seçime göre işlem yapılacak satır çalışıyor.
-5. Adım - Bölme işleminde ilk veya ikinci sayı 0 girilirse "Bölen '0' olamaz." ekrana yazdırılıyor.
+3. Adım - Girilen değer eğer "exit" ise "Çıkış yapılıyor." yazdırılıyor.
+4. Adım - Tekrar while döngüsü ile sayi1 ile sayi2'yi kullanıcıdan girmesi isteniyor ve sayı olup olmadığını kontrol ediyor sayı değilse ekrana "Girdiğiniz değer sayı değil." yazdırılıyor ve tekrar sayı girmesi isteniyor.
+5. Adım - elif ile seçime göre işlem yapılacak satır çalışıyor.
+6. Adım - Bölme işleminde ilk veya ikinci sayı 0 girilirse "Bölen '0' olamaz." ekrana yazdırılıyor.
